@@ -1,4 +1,4 @@
-# sh-ch03
+# SuperHi Project | Chapter 3
 Flower Shop | Multi-column Responsive website
 
 Refresher HTML/CSS Javascript course with Super Hi: https://www.superhi.com/courses/html-css-javascript-foundation
